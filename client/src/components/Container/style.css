@@ -1,0 +1,13 @@
+.Container {
+    box-shadow: 5px 5px 7px 0px rgba(135, 135, 135, 0.61);
+    background-image: url("https://cdn-v2.asla.org/uploadedImages/CMS/Shop/Bookstore/books.jpg");
+    background-size: cover;
+    height: 600px;
+    background-position: center;
+}
+Text {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    position: relative;
+    transform: translateY(100px)
+}
