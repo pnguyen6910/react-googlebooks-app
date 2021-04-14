@@ -1,0 +1,15 @@
+.img-fluid {
+    width:300%;
+    margin-left: 50px;
+    height: auto;
+} 
+.card-body {
+    width: 70%;
+    margin-left: 50px;
+}
+
+img {
+    vertical-align: middle;
+    margin-top: 20px;
+    border-style: none;
+}

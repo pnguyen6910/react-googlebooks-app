@@ -1,0 +1,32 @@
+.search {
+    padding: 15px;
+    font-style: italic;
+    font-size: 2rem;
+    border: 2px solid lightgrey;
+    border-radius:  13px;
+   
+}
+.form-group h2 {
+    width: 60vw;
+    text-align: center;
+    margin-left: 25%;
+}
+ input {
+    padding: 10px;
+    margin-left: 25%;
+}
+button{
+    padding: 10px;
+    margin-left: 25px;
+}
+.form-control {
+    padding: 10px;
+    margin-left: 25%;
+    width: 30%;
+}
+.btn {
+    padding: 10px;
+    margin-left:25%;
+    width: 100px
+    ;
+}
