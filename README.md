@@ -1,10 +1,8 @@
-# Create React Express App
+# React Google Books App
 
-## About This Boilerplate
+## Description
 
-This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
-
-The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
+This is an app that allows the user to search and save books of their choosing. The user can view the saved books if they click on the saved button in the nav bar. Enjoy.
 
 ## Starting the app locally
 
